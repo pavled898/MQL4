@@ -1,0 +1,259 @@
+0	12:01:58.552	Custom indicator Heiken Ashi EURUSD,Daily: loaded successfully
+0	12:01:58.568	Custom indicator Downloads\ClarityIndex EURUSD,Daily: loaded successfully
+0	14:43:07.954	Compiling 'VIDYA'
+0	14:43:07.954	Compiling '(B)DSS Bressert'
+0	14:43:07.970	Compiling 'angle_of_nonlag_ma_1.01'
+0	14:43:07.970	Compiling 'Aroon'
+0	14:43:07.970	Compiling 'Chalkin Money Flow Histo'
+0	14:43:07.970	Compiling 'complex-volatility'
+0	14:43:07.970	Compiling 'dema macd zones3'
+0	14:43:07.970	Compiling 'Jurik_volty_bands_-_separate_1'
+0	14:43:07.970	Compiling 'MACD'
+0	14:43:07.970	Compiling 'MACDLsma2'
+0	14:43:07.970	Compiling 'MA_Cross_OC_WALERTS'
+0	14:43:07.970	Compiling 'Trend Direction & Force Index - Smoothed 4'
+0	14:43:07.970	Compiling 'TrendStrengthInd'
+0	14:43:07.970	Compiling 'TrendWave'
+0	14:43:07.970	Compiling 'Trend_Detection_Index'
+0	14:43:07.970	Compiling 'Trend_direction__force_index_-_smoothed_4'
+0	14:43:07.970	Compiling 'Trend_Intensity_Index'
+0	14:43:07.986	Compiling 'UT_FAST'
+0	14:43:07.986	Compiling 'vkw bands v2 mtf 2.4'
+0	14:43:07.986	Compiling 'volatility-indicator-2'
+0	14:43:07.986	Compiling 'Volatility_quality_histo_mtf_arrows_-_lines_multisymbol_2.02 (1)'
+0	14:43:07.986	Compiling 'VQ'
+0	14:43:07.986	Compiling 'WeisWave3c'
+0	14:43:07.986	Compiling 'WeisWave3TD'
+0	14:43:07.986	Compiling 'WYFX_ClearChart'
+0	14:43:07.986	Compiling '(B)DSS Bressert'
+0	14:43:07.986	Compiling 'angle_of_nonlag_ma_1.01'
+0	14:43:07.986	Compiling 'Aroon'
+0	14:43:07.986	Compiling 'Chalkin Money Flow Histo'
+0	14:43:07.986	Compiling 'complex-volatility'
+0	14:43:07.986	Compiling 'dema macd zones3'
+0	14:43:07.986	Compiling 'Jurik_volty_bands_-_separate_1'
+0	14:43:07.986	Compiling 'MACD'
+0	14:43:08.001	Compiling 'MACDLsma2'
+0	14:43:08.001	Compiling 'MA_Cross_OC_WALERTS'
+0	14:43:08.001	Compiling 'TrendStrengthInd'
+0	14:43:08.001	Compiling 'TrendWave'
+0	14:43:08.001	Compiling 'Trend_Detection_Index'
+0	14:43:08.001	Compiling 'Trend_direction__force_index_-_smoothed_4'
+0	14:43:08.001	Compiling 'Trend_Intensity_Index'
+0	14:43:08.001	Compiling 'UT_FAST'
+0	14:43:08.001	Compiling 'vkw bands v2 mtf 2.4'
+0	14:43:08.001	Compiling 'volatility-indicator-2'
+0	14:43:08.001	Compiling 'Volatility_quality_histo_mtf_arrows_-_lines_multisymbol_2.02 (1)'
+0	14:43:08.001	Compiling 'VQ'
+0	14:43:08.001	Compiling 'WeisWave3c'
+0	14:43:08.001	Compiling 'WeisWave3TD'
+0	14:43:08.001	Compiling 'WYFX_ClearChart'
+0	14:43:08.001	Compiling '#6 Volumes Suite (White)'
+0	14:43:08.001	Compiling '62_VolumeTicksSepa'
+0	14:43:08.001	Compiling 'Accelerator'
+0	14:43:08.017	Compiling 'Damiani_volatmeter (2)'
+0	14:43:08.017	Compiling 'Damiani_volatmeterNoInputs'
+0	14:43:08.017	Compiling 'DPO (1)'
+0	14:43:08.017	Compiling 'DPO'
+0	14:43:08.017	Compiling 'Hawkeye Volume'
+0	14:43:08.017	Compiling 'hawkeye_volume'
+0	14:43:08.017	Compiling 'J_TPO_Velocity'
+0	14:43:08.017	Compiling 'kaufman_volatility'
+0	14:43:08.017	Compiling 'kg_macd_ta'
+0	14:43:08.017	Compiling 'MACD'
+0	14:43:08.017	Compiling 'MACDLsma2'
+0	14:43:08.017	Compiling 'MFI'
+0	14:43:08.017	Compiling 'Momentum'
+0	14:43:08.017	Compiling 'normalized-volume'
+0	14:43:08.017	Compiling 'OBV'
+0	14:43:08.017	Compiling 'sentiment-histogram'
+0	14:43:08.017	Compiling 'ticks-volume'
+0	14:43:08.017	Compiling 'TrendStrengthInd'
+0	14:43:08.017	Compiling 'Trend_Detection_Index'
+0	14:43:08.017	Compiling 'Trend_direction__force_index_-_smoothed_4'
+0	14:43:08.017	Compiling 'Volatility_quality_histo_mtf_arrows_-_lines_multisymbol_2.02 (1)'
+0	14:43:08.017	Compiling 'WeisWave3c'
+0	14:43:08.017	Compiling 'WeisWave3TD'
+0	14:43:56.806	Custom indicator Heiken Ashi EURUSD,Daily: loaded successfully
+0	14:43:56.822	Custom indicator Examples\SimplePanel\SimplePanel EURUSD,Daily: loaded successfully
+0	14:43:56.916	Heiken Ashi EURUSD,Daily: initialized
+0	14:43:57.009	SimplePanel EURUSD,Daily: initialized
+3	14:43:57.009	SimplePanel EURUSD,Daily: indicator on custom buffer is not supported yet
+0	14:44:06.697	SimplePanel EURUSD,Daily: uninit reason 1
+0	14:44:06.697	Custom indicator SimplePanel EURUSD,Daily: removed
+0	14:45:21.697	Custom indicator NNFX\Entry\(B)DSS Bressert EURUSD,Daily: loaded successfully
+0	14:45:23.041	(B)DSS Bressert EURUSD,Daily: initialized
+0	14:48:34.546	(B)DSS Bressert EURUSD,Daily: uninit reason 5
+0	14:48:34.577	(B)DSS Bressert EURUSD,Daily: initialized
+0	14:49:33.056	Custom indicator NNFX\Entry\+MP EURUSD,Daily: loaded successfully
+0	14:49:34.541	+MP EURUSD,Daily: initialized
+0	14:49:52.525	(B)DSS Bressert EURUSD,Daily: uninit reason 1
+0	14:49:52.525	Custom indicator (B)DSS Bressert EURUSD,Daily: removed
+0	14:49:58.275	Custom indicator NNFX\Entry\+MP EURUSD,Daily: loaded successfully
+0	14:50:16.962	+MP EURUSD,Daily: initialized
+0	14:50:42.602	+MP EURUSD,Daily: uninit reason 1
+0	14:50:42.618	Custom indicator +MP EURUSD,Daily: removed
+0	14:50:59.720	+MP EURUSD,Daily: uninit reason 5
+0	14:50:59.751	+MP EURUSD,Daily: initialized
+0	14:51:15.139	+MP EURUSD,Daily: uninit reason 1
+0	14:51:15.139	Custom indicator +MP EURUSD,Daily: removed
+0	14:51:32.654	Custom indicator NNFX\Volume\62_VolumeTicksSepa EURUSD,Daily: loaded successfully
+0	14:51:34.170	62_VolumeTicksSepa EURUSD,Daily: initialized
+0	14:54:50.401	62_VolumeTicksSepa EURUSD,Daily: uninit reason 1
+0	14:54:50.401	Custom indicator 62_VolumeTicksSepa EURUSD,Daily: removed
+0	14:55:12.385	Custom indicator NNFX\Baseline\adaptive_smoother_triggerlines_mtf_alerts_nmc EURUSD,Daily: loaded successfully
+0	14:55:13.604	adaptive_smoother_triggerlines_mtf_alerts_nmc EURUSD,Daily: initialized
+0	15:09:14.088	Custom indicator NNFX\Baseline\All_MA_Average EURUSD,Daily: loaded successfully
+0	15:09:15.603	All_MA_Average EURUSD,Daily: initialized
+0	15:10:37.312	Custom indicator NNFX\Entry\BBands_Stop_v11 EURUSD,Daily: loaded successfully
+0	15:10:38.718	BBands_Stop_v11 EURUSD,Daily: initialized
+0	15:11:50.590	BBands_Stop_v11 EURUSD,Daily: uninit reason 1
+0	15:11:50.606	Custom indicator BBands_Stop_v11 EURUSD,Daily: removed
+0	15:11:54.246	Custom indicator NNFX\Entry\BullsVsBears EURUSD,Daily: loaded successfully
+0	15:11:55.449	BullsVsBears EURUSD,Daily: initialized
+0	15:12:38.082	Custom indicator NNFX\Entry\Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: loaded successfully
+0	15:12:39.613	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: initialized
+0	15:14:29.087	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: uninit reason 5
+0	15:14:29.119	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: initialized
+0	15:15:42.615	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: uninit reason 5
+0	15:15:42.646	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: initialized
+0	15:16:34.777	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: uninit reason 5
+0	15:16:34.808	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: initialized
+0	15:17:35.055	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: uninit reason 5
+0	15:17:35.087	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: initialized
+0	15:17:45.694	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: uninit reason 5
+0	15:17:45.710	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: initialized
+0	15:19:15.507	BullsVsBears EURUSD,Daily: uninit reason 5
+0	15:19:15.538	BullsVsBears EURUSD,Daily: initialized
+0	15:19:44.866	Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: uninit reason 1
+0	15:19:44.866	Custom indicator Trend Direction & Force Index - Smoothed 4 EURUSD,Daily: removed
+0	15:19:55.895	BullsVsBears EURUSD,Daily: uninit reason 5
+0	15:19:55.926	BullsVsBears EURUSD,Daily: initialized
+0	15:20:54.385	BullsVsBears EURUSD,Daily: uninit reason 5
+0	15:20:54.416	BullsVsBears EURUSD,Daily: initialized
+0	15:21:42.446	Custom indicator NNFX\Entry\MACD EURUSD,Daily: loaded successfully
+0	15:21:43.821	MACD EURUSD,Daily: initialized
+0	15:21:50.206	Custom indicator NNFX\Entry\MACDLsma2 EURUSD,Daily: loaded successfully
+0	15:21:51.588	MACDLsma2 EURUSD,Daily: initialized
+0	15:23:54.915	BullsVsBears EURUSD,Daily: uninit reason 5
+0	15:23:54.962	BullsVsBears EURUSD,Daily: initialized
+0	15:26:32.945	MACD EURUSD,Daily: uninit reason 1
+0	15:26:32.945	Custom indicator MACD EURUSD,Daily: removed
+0	15:26:34.992	MACDLsma2 EURUSD,Daily: uninit reason 1
+0	15:26:34.992	Custom indicator MACDLsma2 EURUSD,Daily: removed
+0	15:26:47.873	Custom indicator NNFX\Entry\volatility-indicator-2 EURUSD,Daily: loaded successfully
+0	15:26:50.212	volatility-indicator-2 EURUSD,Daily: initialized
+0	15:30:33.650	volatility-indicator-2 EURUSD,Daily: uninit reason 1
+0	15:30:33.650	Custom indicator volatility-indicator-2 EURUSD,Daily: removed
+0	15:30:39.666	Custom indicator NNFX\Entry\Ehlers Fisher transform experiment EURUSD,Daily: loaded successfully
+0	15:30:42.212	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:31:25.739	BullsVsBears EURUSD,Daily: uninit reason 5
+0	15:31:25.770	BullsVsBears EURUSD,Daily: initialized
+0	15:32:40.399	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:32:40.431	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:33:11.025	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:33:11.056	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:33:24.103	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:33:24.134	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:33:50.856	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:33:50.888	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:34:09.450	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:34:09.481	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:34:26.681	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:34:26.712	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:34:38.962	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:34:38.993	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:34:57.166	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:34:57.197	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:35:05.228	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:35:05.260	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:36:14.058	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:36:14.089	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:38:09.894	Ehlers Fisher transform experiment EURUSD,Daily: uninit reason 5
+0	15:38:09.925	Ehlers Fisher transform experiment EURUSD,Daily: initialized
+0	15:41:19.244	Custom indicator NNFX\Entry\angle_of_average EURUSD,Daily: loaded successfully
+0	15:41:20.572	angle_of_average EURUSD,Daily: initialized
+0	15:42:28.178	angle_of_average EURUSD,Daily: uninit reason 1
+0	15:42:28.178	Custom indicator angle_of_average EURUSD,Daily: removed
+0	15:42:30.381	Custom indicator NNFX\Entry\angle_of_average__alerts_1_1 EURUSD,Daily: loaded successfully
+0	15:42:32.069	angle_of_average__alerts_1_1 EURUSD,Daily: initialized
+0	15:42:37.387	angle_of_average__alerts_1_1 EURUSD,Daily: uninit reason 1
+0	15:42:37.387	Custom indicator angle_of_average__alerts_1_1 EURUSD,Daily: removed
+0	15:42:42.949	Custom indicator NNFX\Entry\angle_of_nonlag_ma_1.01 EURUSD,Daily: loaded successfully
+0	15:42:44.527	angle_of_nonlag_ma_1.01 EURUSD,Daily: initialized
+0	15:43:32.198	angle_of_nonlag_ma_1.01 EURUSD,Daily: uninit reason 5
+0	15:43:32.230	angle_of_nonlag_ma_1.01 EURUSD,Daily: initialized
+0	15:43:45.916	angle_of_nonlag_ma_1.01 EURUSD,Daily: uninit reason 5
+0	15:43:45.947	angle_of_nonlag_ma_1.01 EURUSD,Daily: initialized
+0	15:44:10.540	angle_of_nonlag_ma_1.01 EURUSD,Daily: uninit reason 5
+0	15:44:10.572	angle_of_nonlag_ma_1.01 EURUSD,Daily: initialized
+0	15:44:58.667	Custom indicator NNFX\Entry\BraidFilter EURUSD,Daily: loaded successfully
+0	15:45:00.682	BraidFilter EURUSD,Daily: initialized
+3	15:46:08.292	cannot open file 'C:\Users\Win10\AppData\Roaming\MetaQuotes\Terminal\DA3C92B1779898CC0CACD726A655BECB\MQL4\indicators\NNFX\Entry\Chalkin Money Flow Histo.ex4' [2]
+0	15:46:13.304	BraidFilter EURUSD,Daily: uninit reason 1
+0	15:46:13.320	Custom indicator BraidFilter EURUSD,Daily: removed
+0	15:46:19.085	angle_of_nonlag_ma_1.01 EURUSD,Daily: uninit reason 1
+0	15:46:19.101	Custom indicator angle_of_nonlag_ma_1.01 EURUSD,Daily: removed
+0	17:24:33.626	Custom indicator NNFX\Entry\aroon_up_down EURUSD,Daily: loaded successfully
+0	17:24:34.720	aroon_up_down EURUSD,Daily: initialized
+0	17:27:00.046	BullsVsBears EURUSD,Daily: uninit reason 1
+0	17:27:00.046	Custom indicator BullsVsBears EURUSD,Daily: removed
+3	17:27:12.796	cannot open file 'C:\Users\Win10\AppData\Roaming\MetaQuotes\Terminal\DA3C92B1779898CC0CACD726A655BECB\MQL4\indicators\NNFX\Entry\Chalkin Money Flow Histo.ex4' [2]
+3	17:27:14.452	cannot open file 'C:\Users\Win10\AppData\Roaming\MetaQuotes\Terminal\DA3C92B1779898CC0CACD726A655BECB\MQL4\indicators\NNFX\Entry\Chalkin Money Flow Histo.ex4' [2]
+3	17:27:16.937	cannot open file 'C:\Users\Win10\AppData\Roaming\MetaQuotes\Terminal\DA3C92B1779898CC0CACD726A655BECB\MQL4\indicators\NNFX\Entry\Chalkin Money Flow Histo.ex4' [2]
+0	17:27:39.108	Custom indicator NNFX\Entry\complex-volatility EURUSD,Daily: loaded successfully
+0	17:27:40.530	complex-volatility EURUSD,Daily: initialized
+0	17:30:18.812	complex-volatility EURUSD,Daily: uninit reason 1
+0	17:30:18.812	Custom indicator complex-volatility EURUSD,Daily: removed
+0	17:30:26.655	Custom indicator NNFX\Entry\GoldenFinger EURUSD,Daily: loaded successfully
+0	17:30:31.499	GoldenFinger EURUSD,Daily: initialized
+0	17:31:31.621	GoldenFinger EURUSD,Daily: uninit reason 1
+0	17:31:31.636	Custom indicator GoldenFinger EURUSD,Daily: removed
+0	17:31:38.824	Custom indicator NNFX\Entry\Heiken_Ashi_SmoothedCorrect EURUSD,Daily: loaded successfully
+0	17:31:40.808	Heiken_Ashi_SmoothedCorrect EURUSD,Daily: initialized
+0	17:32:13.829	Heiken Ashi EURUSD,Daily: uninit reason 5
+0	17:32:13.860	Heiken Ashi EURUSD,Daily: initialized
+0	17:35:01.172	Heiken_Ashi_SmoothedCorrect EURUSD,Daily: uninit reason 1
+0	17:35:01.187	Custom indicator Heiken_Ashi_SmoothedCorrect EURUSD,Daily: removed
+0	17:35:04.078	Custom indicator NNFX\Entry\dema macd zones alerts 2.01 EURUSD,Daily: loaded successfully
+0	17:35:05.484	dema macd zones alerts 2.01 EURUSD,Daily: initialized
+0	17:35:36.546	dema macd zones alerts 2.01 EURUSD,Daily: uninit reason 1
+0	17:35:36.562	Custom indicator dema macd zones alerts 2.01 EURUSD,Daily: removed
+0	17:36:18.311	Custom indicator NNFX\Entry\dss-averages-of-momentum EURUSD,Daily: loaded successfully
+0	17:36:19.936	dss-averages-of-momentum EURUSD,Daily: initialized
+0	17:36:32.795	dss-averages-of-momentum EURUSD,Daily: uninit reason 1
+0	17:36:32.795	Custom indicator dss-averages-of-momentum EURUSD,Daily: removed
+0	17:36:38.873	Custom indicator NNFX\Entry\EJ_Trend EURUSD,Daily: loaded successfully
+0	17:36:40.373	EJ_Trend EURUSD,Daily: initialized
+0	17:37:23.782	EJ_Trend EURUSD,Daily: uninit reason 1
+0	17:37:23.782	Custom indicator EJ_Trend EURUSD,Daily: removed
+0	17:37:30.235	Custom indicator NNFX\Entry\fatl_one_more_average_slope_speed_alerts_mtf_2 EURUSD,Daily: loaded successfully
+0	17:37:31.813	fatl_one_more_average_slope_speed_alerts_mtf_2 EURUSD,Daily: initialized
+0	17:39:02.891	fatl_one_more_average_slope_speed_alerts_mtf_2 EURUSD,Daily: uninit reason 1
+0	17:39:02.891	Custom indicator fatl_one_more_average_slope_speed_alerts_mtf_2 EURUSD,Daily: removed
+0	17:39:12.531	Custom indicator NNFX\Entry\Vortex EURUSD,Daily: loaded successfully
+0	17:39:13.765	Vortex EURUSD,Daily: initialized
+0	17:40:49.780	All_MA_Average EURUSD,Daily: uninit reason 1
+0	17:40:49.780	Custom indicator All_MA_Average EURUSD,Daily: removed
+0	17:42:46.015	Custom indicator NNFX\Entry\VQ EURUSD,Daily: loaded successfully
+0	17:42:47.422	VQ EURUSD,Daily: initialized
+0	17:44:44.122	Custom indicator NNFX\Entry\jurik-trend-strength EURUSD,Daily: loaded successfully
+0	17:44:45.607	jurik-trend-strength EURUSD,Daily: initialized
+0	17:44:52.531	jurik-trend-strength EURUSD,Daily: uninit reason 1
+0	17:44:52.624	Custom indicator jurik-trend-strength EURUSD,Daily: removed
+0	17:44:58.858	Custom indicator NNFX\Entry\TRIX EURUSD,Daily: loaded successfully
+0	17:45:00.155	TRIX EURUSD,Daily: initialized
+0	17:45:04.655	TRIX EURUSD,Daily: uninit reason 1
+0	17:45:04.655	Custom indicator TRIX EURUSD,Daily: removed
+0	17:45:11.093	Custom indicator NNFX\Exit\Chalkin Money Flow Histo EURUSD,Daily: loaded successfully
+0	17:45:12.452	Chalkin Money Flow Histo EURUSD,Daily: initialized
+0	17:45:38.858	Chalkin Money Flow Histo EURUSD,Daily: uninit reason 1
+0	17:45:38.873	Custom indicator Chalkin Money Flow Histo EURUSD,Daily: removed
+0	17:45:54.484	Custom indicator NNFX\Exit\Trend_direction__force_index_-_smoothed_4 EURUSD,Daily: loaded successfully
+0	17:45:55.797	Trend_direction__force_index_-_smoothed_4 EURUSD,Daily: initialized
+0	17:45:55.797	Trend_direction__force_index_-_smoothed_4 EURUSD,Daily: Alert: contact Forex-TSD
+0	17:45:55.797	Trend_direction__force_index_-_smoothed_4 EURUSD,Daily: Alert: You are trying to use renamed indicator
+0	17:46:15.850	Trend_direction__force_index_-_smoothed_4 EURUSD,Daily: uninit reason 1
+0	17:46:15.865	Custom indicator Trend_direction__force_index_-_smoothed_4 EURUSD,Daily: removed
+0	17:46:20.209	Custom indicator NNFX\Exit\TrendWave EURUSD,Daily: loaded successfully
+0	17:46:22.490	TrendWave EURUSD,Daily: initialized
